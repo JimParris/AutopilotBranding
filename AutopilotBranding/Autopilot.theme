@@ -1,4 +1,4 @@
-; Copyright © Microsoft Corp.
+; Copyright (C) Microsoft Corp.
 
 [Theme]
 DisplayName=Autopilot
@@ -41,9 +41,9 @@ DefaultValue=Windows Default
 DefaultValue.MUI=@main.cpl,-1020
 
 [Control Panel\Desktop]
-Wallpaper=%SystemRoot%\web\wallpaper\Autopilot\Autopilot.jpg
+Wallpaper=%SystemRoot%\web\wallpaper\Autopilot\Dell.jpg
 TileWallpaper=0
-WallpaperStyle=10
+WallpaperStyle=4
 Pattern=
 
 [VisualStyles]
@@ -63,4 +63,3 @@ MTSM=RJSPBS
 [Sounds]
 ; IDS_SCHEME_DEFAULT
 SchemeName=@%SystemRoot%\System32\mmres.dll,-800
-
